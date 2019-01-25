@@ -1,1 +1,21 @@
+h1 {
+  text-align: center;
+  font-size: 185px;
+  margin: 100px 0px;
+  border: 4px solid #fbb040;
+}
 
+body {
+  background-color: #333333;
+  color: #fbb040;
+}
+
+.btn {
+  font-size: 40px;
+  padding: 10px 15px;
+}
+
+.form-group {
+  font-size: 30px;
+  margin-bottom: 40px;
+}

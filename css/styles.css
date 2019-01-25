@@ -2,12 +2,14 @@ h1 {
   text-align: center;
   font-size: 185px;
   margin: 100px 0px;
-  border: 4px solid #fbb040;
+  border: 8px solid #fbb040;
+  padding: 30px 15px;
 }
 
 body {
   background-color: #333333;
   color: #fbb040;
+  font-family: 'VT323', monospace;
 }
 
 .btn {

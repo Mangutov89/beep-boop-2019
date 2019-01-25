@@ -1,9 +1,10 @@
 h1 {
   text-align: center;
-  font-size: 185px;
+  font-size: 100px;
   margin: 100px 0px;
   border: 8px solid #fbb040;
   padding: 30px 15px;
+  display: inline-block;
 }
 
 body {
@@ -18,6 +19,10 @@ body {
 }
 
 .form-group {
-  font-size: 30px;
+  font-size: 45px;
   margin-bottom: 40px;
+}
+
+img {
+  padding: 10px 10px;
 }

@@ -11,7 +11,7 @@ function beepBoopFunction(number, name) {
       newArray.push(i);
     }
   }
-  return newArray;
+  return newArray.reverse();
 };
 
 

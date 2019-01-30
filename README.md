@@ -18,7 +18,10 @@ _This is a webpage that uses arrays and loops to convert a user input number int
     * _Example Output: ["Boop!"]_
 * _Program replaces any number divisible by 3 with "I'm sorry, name of user. I'm afraid I can't do that."_
     * _Example Input: 6_
-    * _Example Output: [""I'm sorry, name of user. I'm afraid I can't do that.""]_
+    * _Example Output: "I'm sorry, name of user. I'm afraid I can't do that."_
+* _Program takes a large number and turns it into a string of numbers with certain numbers replaced._
+   * _Example Input: 12_
+   * _Example Output: Beep, Boop, 2, I'm sorry, name of user. I'm afraid I can't do that, 4, 5, I'm sorry, name of user. I'm afraid I can't do that, 7, 8, I'm sorry, name of user. I'm afraid I can't do that, Boop, Boop, I'm sorry, name of user. I'm afraid I can't do that._
 
 ## Setup/Installation Requirements
 
